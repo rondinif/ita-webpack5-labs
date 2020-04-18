@@ -5,11 +5,11 @@ webpack4 learning studies and experiments with accompanying notes in Italian
 # ita-webpack5-labs
 ![Node CI](https://github.com/rondinif/ita-webpack5-labs/workflows/Node%20CI/badge.svg?branch=master)
 <!-- Learning labs  with accompanying notes in Italian to dive into webpack4 eco-system -->
-Raccolta di laboratori per imparare e sperimemintare l'utilizzo di **webpack 4**, descritti e commentati in italiano.
+Raccolta di laboratori per imparare e sperimemintare l'utilizzo di **webpack 5**, descritti e commentati in italiano.
 
 ***********
 **ATTENZIONE**: le versioni di webpack e di altre librerie utilizzate in questo progetto sono in ALFA o BETA ( ovvero versioni di pacchetti in versioni [Pre-release],cioè non ancora ufficialmente rilasciati )
-quindi possono mostrare instabilità o altri problemi, in alcuni casi occorre ricorrere a dei workaround per fare 
+quindi possono mostrare instabilità o altri problemi, in alcuni casi occorre ricorrere a workaround per fare 
 funzionare gli esperimenti compresi nei laboratori; si sconsiglia l'utlizzo di questo repo 
 a chi non è espressamente interessato alla sperimentazione di webpack5 
 e si rimanda a [ita-webpack5-labs](https://github.com/rondinif/ita-webpack5-labs) per laboratori 
