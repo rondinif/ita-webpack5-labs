@@ -8,12 +8,14 @@ webpack4 learning studies and experiments with accompanying notes in Italian
 Raccolta di laboratori per imparare e sperimemintare l'utilizzo di **webpack 5**, descritti e commentati in italiano.
 
 ***********
-**ATTENZIONE**: le versioni di webpack e di altre librerie utilizzate in questo progetto sono in ALFA o BETA ( ovvero versioni di pacchetti in versioni [Pre-release],cioè non ancora ufficialmente rilasciati )
+**ATTENZIONE**: le versioni di webpack e di altre librerie utilizzate in questo progetto potrebbero essere versioni ALFA o BETA ( ovvero versioni di pacchetti in versioni [Pre-release],cioè non ancora ufficialmente rilasciati )
 quindi possono mostrare instabilità o altri problemi, in alcuni casi occorre ricorrere a workaround per fare 
 funzionare gli esperimenti compresi nei laboratori; si sconsiglia l'utlizzo di questo repo 
 a chi non è espressamente interessato alla sperimentazione di webpack5 
-e si rimanda a [ita-webpack5-labs](https://github.com/rondinif/ita-webpack5-labs) per laboratori 
+e si rimanda a [ita-webpack4-labs](https://github.com/rondinif/ita-webpack4-labs) per laboratori 
 basati su versioni stabili di webpack e relative librerie, plugins, loaders, etc.. 
+
+**ATTENZIONE**: questo repository non contiene codice o artefatti pronti per applicazioni o sistemi in produzione, il codice che trovi in questo repository è pensato solamente per esperimenti a finalità di apprendimento ( Experiments for Learning. )
 **********
 
 Ogni labotatorio nasce per comprendere come sfruttare le potenzialità , talvota nascoste, che si possono avere impostando correttamente la fase di `build` di un **website** o di una **web app** o di una **desktop app** ( *electron*) ed è mirato a pochi specifici aspetti, quindi è ideale come base di partenza per esperimenti più complessi.
@@ -69,7 +71,7 @@ A seconda delle tue preferenze puoi scegliere tra **yarn**  o **npm**  ma in seg
 
 Come probabilmente già saprai l'operazione di installazione delle dipenze provvede alla creazione e popolamento della cartella `./node_modules` , la quale,  coma la `./dist`,  viene  esclusa dal git nel `.gitignore` e in ogni momento può essere rimossa integralmente `rm -rf ./node_modules` e rigenerata reinstallando le dipendenze. 
 
-Gli esempi contenuti in diversi laboratori ( quasi tutti ad esclusione di alcuni ) possono essere `build`ati massimamente con un unico *task*: 
+Gli esempi contenuti in diversi laboratori ( quasi tutti ad esclusione di alcuni ) possono essere `build`ati massivamente con un unico *task: 
  `npm run build` 
 In alternativa potrebbe essere preferibile compilare solo quelli che interessano o che si intende provare ed approfondire, per fare questo usare un comando del tipo: `npm run <build-nome-esempio>`
  , per esempio: 
