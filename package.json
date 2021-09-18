@@ -40,7 +40,7 @@
     "debug-lab-pug-03": "node --inspect-brk=5858 node_modules/webpack/bin/webpack.js --colors --config src/lab-pug-03/webpack.config.js --mode=development",
     "build-lab-pug-04": "npx webpack --config src/lab-pug-04/webpack.config.js --mode=development",
     "debug-lab-pug-04": "node --inspect-brk=5858 node_modules/webpack/bin/webpack.js --colors --config src/lab-pug-04/webpack.config.js --mode=development",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Attenzione: per questi laboratori non sono previsti tests\" && exit 0"
   },
   "devDependencies": {
     "acorn": "^8.5.0",
