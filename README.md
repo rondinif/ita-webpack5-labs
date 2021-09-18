@@ -3,7 +3,7 @@ ita-webpack5-labs
 webpack4 learning studies and experiments with accompanying notes in Italian
 -->
 # ita-webpack5-labs
-![Node CI](https://github.com/rondinif/ita-webpack5-labs/workflows/Node%20CI/badge.svg?branch=master)
+[![Node.js CI](https://github.com/rondinif/ita-webpack5-labs/actions/workflows/node.js.yml/badge.svg)](https://github.com/rondinif/ita-webpack5-labs/actions/workflows/node.js.yml)
 <!-- Learning labs  with accompanying notes in Italian to dive into webpack4 eco-system -->
 Raccolta di laboratori per imparare e sperimemintare l'utilizzo di **webpack 5**, descritti e commentati in italiano.
 

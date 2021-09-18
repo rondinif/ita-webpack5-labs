@@ -20,7 +20,7 @@
         "css": []
     },
     "options": {
-        "template": "/Users/ronda/projects/rondinif/ita-webpack4-labs/node_modules/html-webpack-plugin/lib/loader.js!/Users/ronda/projects/rondinif/ita-webpack4-labs/src/lab-pug-03/src/index.pug",
+        "template": "/Users/me/projects/rondinif/ita-webpack4-labs/node_modules/html-webpack-plugin/lib/loader.js!/Users/me/projects/rondinif/ita-webpack4-labs/src/lab-pug-03/src/index.pug",
         "templateContent": false,
         "templateParameters": {
             "some": "value"

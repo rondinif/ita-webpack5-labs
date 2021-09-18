@@ -26,7 +26,7 @@ function run() {
 ``` bash
 ita-webpack4-labs (master)*$ NODE_ENV=development npm run debug-lab-pug-04
 
-> @rondinif/ita-webpack4-labs@0.1.0 debug-lab-pug-04 /Users/ronda/projects/rondinif/ita-webpack4-labs
+> @rondinif/ita-webpack4-labs@0.1.0 debug-lab-pug-04 /Users/me/projects/rondinif/ita-webpack4-labs
 > node --inspect-brk=5858 node_modules/webpack/bin/webpack.js --colors --config src/lab-pug-04/webpack.config.js --mode=development
 
 Debugger listening on ws://127.0.0.1:5858/a5128468-42f2-47e6-ae18-2390e794263e

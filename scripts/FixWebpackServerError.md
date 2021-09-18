@@ -4,7 +4,7 @@
 [ita-webpack5-labs]$ npx webpack-dev-server --open --config src/lab-10/webpack.config.js --mode=development
 Cannot find module 'webpack-cli/bin/config-yargs'
 Require stack:
-- /Users/ronda/projects/rondinif/ita-webpack5-labs/node_modules/webpack-dev-server/bin/webpack-dev-server.js
+- /Users/me/projects/rondinif/ita-webpack5-labs/node_modules/webpack-dev-server/bin/webpack-dev-server.js
 ``
 
 ## Soluzione temporanea ( workaround )

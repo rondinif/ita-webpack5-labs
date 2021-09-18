@@ -127,13 +127,13 @@ compilation:Compilation {_pluginCompat: SyncBailHook, hooks: Object, name: undef
 foo:() => …
 htmlWebpackPlugin:Object {tags: Object, files: Object, options: Object}
 files:Object {publicPath: "", js: Array(1), css: Array(0), …}
-options:Object {template: "/Users/ronda/projects/rondinif/ita-webpack4-labs/n…", templateContent: false, templateParameters: Object, …}
+options:Object {template: "/Users/me/projects/rondinif/ita-webpack4-labs/n…", templateContent: false, templateParameters: Object, …}
 tags:Object {headTags: HtmlTagArray(0), bodyTags: HtmlTagArray(1)}
 __proto__:Object {constructor: , __defineGetter__: , __defineSetter__: , …}
 some:"value"
 webpackConfig:Object {entry: "./src/lab-pug-03/src/index.js", output: Object, module: Object, …}
 cache:true
-context:"/Users/ronda/projects/rondinif/ita-webpack4-labs"
+context:"/Users/me/projects/rondinif/ita-webpack4-labs"
 devtool:"eval"
 entry:"./src/lab-pug-03/src/index.js"
 infrastructureLogging:Object {level: "info", debug: false}
@@ -141,7 +141,7 @@ mode:"development"
 module:Object {rules: Array(1), unknownContextRequest: ".", unknownContextRegExp: false, …}
 node:Object {console: false, process: true, global: true, …}
 optimization:Object {removeAvailableModules: false, removeEmptyChunks: true, mergeDuplicateChunks: true, …}
-output:Object {filename: "[name].bundle.js", path: "/Users/ronda/projects/rondinif/ita-webpack4-labs/d…", chunkFilename: "[name].bundle.js", …}
+output:Object {filename: "[name].bundle.js", path: "/Users/me/projects/rondinif/ita-webpack4-labs/d…", chunkFilename: "[name].bundle.js", …}
 performance:false
 plugins:Array(3) [DotenvFlow, CleanWebpackPlugin, HtmlWebpackPlugin]
 resolve:Object {unsafeCache: true, modules: Array(1), extensions: Array(4), …}
